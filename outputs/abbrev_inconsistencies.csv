@@ -1,0 +1,82 @@
+issue,key,details
+acronym_multiple_expansions,FRS,INTRODUCTION The Functional Requirements Specifications; Introduction This report documents the functional requirements specification; Purpose This Functional Requirements Specification; This Functional Requirements Specifications
+acronym_multiple_expansions,SOA,Service Oriented Architecture; connected on low-bandwidth The system should be implemented using Service Oriented Architecture
+acronym_multiple_expansions,SSL,Use Secure Socket Layer; encrypted secure socket layer
+acronym_multiple_expansions,SRS,Approve Version I hereby approve the attached Software Requirements Specification; Elke Durwael QA review 3 Abstract This document contains the Software Requirements Specification; Introduction This section introduces the System Requirements Specification; Purpose The Software Requirements Specification; Purpose This Software Requirements Specification; Purpose This document describes the requirements specification; Purpose and Intended Audience The purpose of the Software Requirements Specification; Purpose and Perspective This Software Requirements Specification; Purpose of this Document This is the Software Requirements Specification; SCOPE This Software Requirements Specification; SOFTWARE REQUIREMENTS SPECIFICATION; Software Requirements Specification; The DigitalHome Software Requirements Specification; The TCS Software Requirements Specification; This document will serve as input for a potential Software Requirement Specifications
+acronym_multiple_expansions,AM,Open South Bound; Product Features Account Management
+acronym_multiple_expansions,PM,Closed; Product Management
+acronym_multiple_expansions,BIT,TEST AND CHECKOUT REQUIREMENTS The telescope and instrument software shall contain built-in test; performs No No None Watchdog Built-In Test
+acronym_multiple_expansions,DBMS,A relevant example of such a package is a general database management system; supporting text Database that describes an management systems NDE product
+acronym_multiple_expansions,TBD,Power M&C bus; The system will cache a predetermined amount; To Be Determined; To Be Determined List This To Be Determined; User determines domains; organizations pathways with sufficient Analysis of exchange very bandwidth to allow the System test logs large; to be determined
+acronym_multiple_expansions,DII,Defense Information Infrastructure; FOR THE DEFENSE INFORMATION INFRASTRUCTURE
+acronym_multiple_expansions,COE,COMMON OPERATING ENVIRONMENT; Common Operating Environment; Entry into Zone
+acronym_multiple_expansions,GCCS,Global Command and Control System; and Global Command Control Systems
+acronym_multiple_expansions,CM,The DISA Configuration Manager; procedures Management comply with CM maintained under and software by
+acronym_multiple_expansions,RAID,Redundant Array Of Inexpensive Disks; Redundant Array of Inexpensive Disks
+acronym_multiple_expansions,ISO,Communication reference model The layered architectural guidelines of the International Standardisation Organisation; transaction processing
+acronym_multiple_expansions,POC,The COE Chief Engineer will approve a single Point of Contact; The VII Proof of Concept
+acronym_multiple_expansions,GUI,Graphical User Interface; Graphical User Interface - MultiMahjongClient The graphical user interface; It provides a graphical Interface; The HATS-GUI is a Graphical User Interface; The TCS HCI shall be a Graphical User Interface; user shall be able to view the data stored in the Physical Inventory tables through the Pontis graphical user interface
+acronym_multiple_expansions,SDD,Software Design Document; The Software Design Document; will have an associated Software Design Document
+acronym_multiple_expansions,TCS,Tactical Control System; Train control system
+acronym_multiple_expansions,SYSTEM,TCS; operational functions
+acronym_multiple_expansions,CCTV,Additional data from this group may include closed circuit television; Closed Circuit Television; Television Interface Requirements Table 7 lists the interface requirements for supporting the Closed Circuit Television
+acronym_multiple_expansions,OEM,if required and provided by the Original Equipment Manufacturer; s
+acronym_multiple_expansions,RTP,Return to Port; Time Processor The TCS shall provide an internal interface for establishing communications with the Real Time Processor
+acronym_multiple_expansions,NIST,The TCS shall conform with the National Institute for Standard Technology; according to Government IT security requirements as outlined in the National Institute of Standards and Technology
+acronym_multiple_expansions,COTS,Analysis of supported Commercial-Off-the-Shelf documentation designs COTS and; OFF-THE-SHELF SOLUTIONS No review has been performed and consequently no commercial off-the-shelf solutions; The XCP-RTOS is a Commercial Off-The-Shelf; and physical specification of the General purpose shall be as close as possible to that of a Commercial-Off-The-Shelf; specification of the General purpose radio is intended to be as close as possible to that of a Commercial-Off-The-Shelf; then Commercial-Off-The-Shelf
+acronym_multiple_expansions,QA,Quality Assurance; The Quality Assurance; to add a graph generator for the purpose of WARC quality assurance
+acronym_multiple_expansions,ATC,will be replaced with modern controllers such as the Department of Transportation 2070 Advanced Transportation Controller; with Air Traffic Control
+acronym_multiple_expansions,CAS,Configuration & Administration Service; Navy Close Air Support
+acronym_multiple_expansions,LAN,Landing Declaration; local area networks; or enterprise environment Local Area Network
+acronym_multiple_expansions,ESS,Environmental Sensor Stations; These environmental data elements are described in the NTCIP 1204 standard for Environmental Sensor Station; degrees Environmental Sensor Station
+acronym_multiple_expansions,TMDD,Functional Level Traffic Management Data Dictionary; L roadway traffic information in Traffic Management Data MHI Dictionary; The C2C project will be implemented using the evolving ITS Traffic Management Data Dictionary
+acronym_multiple_expansions,TMC,The specific format of the D data from the Ann Arbor Traffic Management Center interface is to be determined; To provide a Microsoft Windows application that will allow agencies without a formal Traffic Management Center
+acronym_multiple_expansions,ATMS,The Requirement Numbers are a combination of target Advanced Traffic Management System; receive traffic information from Advanced Traffic Management Systems
+acronym_multiple_expansions,CC,Country Code; and OPC servers on busi-
+acronym_multiple_expansions,DPU,Chassis and Data Processing Unit; Data Processing Unit
+acronym_multiple_expansions,PDS,Probe vehicle data is one of the Data Service; validation and archiving of all ASPERA-3 scientific data in the NASA Planetary Data System
+acronym_multiple_expansions,ID,Origin; The external interface identifiers; UID; indicates that it is essential to identifier; mandatory
+acronym_multiple_expansions,JVM,Java Virtual Machine; Java Virtual Machine An abstract computing machine that is responsible for the hardware and operating
+acronym_multiple_expansions,NASA,ECMWF European Center for Medium-range Weather Forecasting EDR Environmental Data Record EOS Earth Observing System; Overview The Swift observatory is the next in a series of National Aeronautics and Space Administration
+acronym_multiple_expansions,UTC,Universal Time Corrected; compute Universal Time Coordinate; database and in published data sets need to be referenced to a standard time reference such as Coordinated Universal Time
+acronym_multiple_expansions,RFI,The interface shall be transformer coupled copper twisted pair unless other materials are required for noise; submit to outside vendors as Request For Information
+acronym_multiple_expansions,API,It is the name of a family of related standards specified by the IEEE to define the application programming interface; SCE-API; The migration workflow shall provide a clear Application Programming Interface; programmers interface
+acronym_multiple_expansions,MTBF,Mean Time between Failure; mean time between failure
+acronym_multiple_expansions,SN,Subscriber Number; Surname
+acronym_multiple_expansions,MMC,Interface Through ESPC ESPC Operations shall provide an interface between NDE and the NPOESS Mission Management Center; the Active Directory for a CIA Administrator using the Microsoft Management Console Active Directory Users and Computers
+acronym_multiple_expansions,HTTP,Communications Interfaces This product will require communication via the Hyper Text Transfer Protocol; HTTP Server Software accepting HyperText Transfer Protocol
+acronym_multiple_expansions,ISP,The home system shall require an Internet Service Provider; connection assumes a physical or wireless connection from the client computer to a consumer Internet Service Provider
+acronym_multiple_expansions,XML,anpd the darta-c enotric Ex tenvsible Maarkup Lalng uage; import and export of data in eXstensible Markup Language; marked-up using eXtensible Markup Language
+acronym_multiple_expansions,GLN,D&B D-U-N-S company reference number Global Location Number; Group Location Number
+acronym_multiple_expansions,W3C,LOOK AND FEEL REQUIREMENTS The EIM&DSS design will be informed by World Wide Web Consortium; using the World Wide Web Consortium
+acronym_multiple_expansions,EA,Analysis of an IT Architecture develop an IT Architecture designs compliant with Enterprise; each
+acronym_multiple_expansions,CIF,Carriage Insured Freight - Seller to insure to destination; international or bilateral agreements
+acronym_multiple_expansions,DB,and debugger information; input
+acronym_multiple_expansions,CS,Collector Services; and encouraging Oregon high school students to take coursework leading toward a baccalaureate degree in computer science
+acronym_multiple_expansions,EMC,Environmental Metadata Cache; both emissions and immunity
+acronym_multiple_expansions,NOAA,Department of Commerce National Oceanic and Atmospheric Administration; The National Oceanic and Atmospheric Administration
+acronym_multiple_expansions,ADA,American Disabilities Act; IDPS
+acronym_multiple_expansions,JRE,Java Runtime Environment; Runtime Environment
+acronym_multiple_expansions,UK,BL; Brown and Company; English; The ELSS must use English
+acronym_multiple_expansions,GPL,It is free and open source with a GNU General Public License; The browser and any other tool released alongside the Framework will be licensed under GNU Public License
+acronym_multiple_expansions,MMI,Man Machine Interface; eg transitory lighting of the display and of all the controls and indicator lights of the MMI
+acronym_multiple_expansions,PA,Peering Agent; not radio link
+acronym_multiple_expansions,PTT,Voice transmission from direct mode equipment shall be possible only when the Push- To-Talk; to request permission before being able to speak as part of the call by lifting the handset and pushing the Push-To- Talk
+acronym_multiple_expansions,ERS,ERS Message Declaration; Economics Research Service
+acronym_multiple_expansions,FGDC,Federal Geographic Data Committee; links to GOS metadata - Link to formal metadata
+acronym_multiple_expansions,OPS,Data Operations; the NDE System will be partitioned into Operational
+acronym_multiple_expansions,II,IORD II; ISO 15489
+acronym_multiple_expansions,CIP,Critical Infrastructure Protection; pan-European needs framework Programme
+acronym_multiple_expansions,GIS,often used in conjunction with computer mapping and Geographic Information Systems; performing spatial analysis using Geographic Information Systems
+acronym_multiple_expansions,SLA,Service Level Agreement; s private network with a defined Service Level Agreement
+acronym_multiple_expansions,BCP,Peterson Revisions This Black Start Capability Plan; draft plan shall be The Contractor shall Continuity Plan develop a BCP with completed within six provide a weekly status
+acronym_multiple_expansions,EC,DG MARKT; Introduction Council Regulation
+expansion_multiple_acronyms,Publication 151-2,POSIX1; POSTX1
+expansion_multiple_acronyms,ICCP,TASE-2; TASE2
+expansion_multiple_acronyms,for reference in the document only,ARCH; MGMT
+expansion_multiple_acronyms,for reference in this document only,RSC-WB; SED-SSP; SUMMIT
+expansion_multiple_acronyms,Execute,XCP-CCMI; XCP-PDD
+expansion_multiple_acronyms,TBR,FLOAT; UINT16; UINT8
+expansion_multiple_acronyms,UINT32 End of Interrupt Register,IRQ1; IRQ2; IRQ3; IRQ4; IRQ5; IRQ6; IRQ7; SYSFAIL
+expansion_multiple_acronyms,s,OEM; SEI; SWFWMD
+expansion_multiple_acronyms,interface is to be determined,DDOT; RCOC

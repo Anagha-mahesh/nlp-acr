@@ -1,0 +1,11 @@
+metric,count
+total_files_processed,66
+total_acronym_occurrences_with_duplicates,911
+total_unique_acronyms,479
+total_missing_definitions_unique,126
+total_missing_definitions_with_duplicates,126
+total_first_use_before_definition_unique,1
+total_inconsistencies_acronym_multiple_expansions,72
+total_inconsistencies_expansion_multiple_acronyms,9
+subjective_terms_with_duplicates,429
+subjective_terms_unique,11
