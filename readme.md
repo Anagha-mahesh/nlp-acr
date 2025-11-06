@@ -7,7 +7,7 @@
 
 **Run Command:**  
 ```bash
-pip install requirements.txt
+pip install -r requirements.txt
 python abbr_checker_2.py
 ```
 **Generated output files:** 
