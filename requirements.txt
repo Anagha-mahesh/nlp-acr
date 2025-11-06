@@ -1,0 +1,12 @@
+pandas 
+numpy 
+regex 
+nltk  
+sentence-transformers 
+fuzzywuzzy 
+python-Levenshtein
+pdfplumber 
+textract 
+beautifulsoup4 
+striprtf 
+tqdm
